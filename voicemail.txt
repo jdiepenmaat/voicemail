@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-<Say language="nl-NL">
-  Hello dit is een update. Je hebt dit telefoonnummer gevonden via de Kamer van Koophandel. Als je mijn mobiele nummer wilt vraag ik je me eerst te e-mailen. De verbinding wordt nu verbroken. 
-</Say>
+<Say voice="Polly.Ruben" language="nl-nL">hallo dit is een test</Say>
 </Response>
