@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-<Say voice="Polly.Ruben" language="nl-NL">hallo dit is een test</Say>
+<Say voice="Polly.Ruben">hallo dit is een test</Say>
 </Response>
